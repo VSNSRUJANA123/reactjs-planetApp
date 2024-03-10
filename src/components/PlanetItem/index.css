@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.planetsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.planetsContainer img {
+  width: 50%;
+}
+.planetsContainer p {
+  width: 50%;
+}
+.heading {
+  text-align: center;
+  color: #05acff;
+}
